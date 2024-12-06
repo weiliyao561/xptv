@@ -1,0 +1,83 @@
+{
+    "sites": [
+        {
+            "name": "爱壹帆",
+            "type": 3,
+            "api": "csp_iyftv",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/iyftv.js"
+        },
+        { 
+            "name": "欧乐🪜", 
+            "type": 3, 
+            "api": "csp_Olevod",
+            "ext": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
+        },
+        { 
+            "name": "欧乐🪜", 
+            "type": 3, 
+            "api": "csp_Olevod",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json"
+        },
+https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json
+
+        {
+            "name": "厂长资源",
+            "type": 3,
+            "api": "csp_czzy",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/czzy.js"
+        },
+        {
+            "name": "黑木耳",
+            "type": 1,
+            "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
+        },
+        {
+            "name": "哔滴影视",
+            "type": 3,
+            "api": "csp_bde4",
+            "ext": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/a417f28f7313f6eea4214f58b4946142/raw/bdys.js"
+        },
+       { 
+            "name": "在线之家", 
+            "type": 3, 
+            "api": "csp_Zxzj" 
+        },
+       { 
+            "name": "低端影视", 
+            "type": 3, 
+            "api": "csp_ddys",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ddys.js"
+        },
+        { 
+            "name": "独播库", 
+            "type": 3, 
+            "api": "csp_duboku",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js",
+            "ext2": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/f6cf4425bf7d1815a26323ade89ea593/raw/duboku.js"
+        },
+       {
+            "name": "4k-av",
+            "type": 3,
+            "api": "csp_4kav",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
+        },
+      {
+            "name": "星芽短劇",
+            "type": 3,
+            "api": "csp_xingya",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
+        },
+        {
+            "name": "瓜子",
+            "type": 3,
+            "api": "csp_guazi",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
+        },
+        {
+            "name": "小蘋果",
+            "type": 3,
+            "api": "csp_apple",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
+        }
+    ]
+}
