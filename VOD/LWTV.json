@@ -13,9 +13,24 @@
             "ext": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
         },
         { 
-            "name": "欧乐 Test", 
+            "name": "欧乐 Test 3", 
             "type": 3, 
             "api": "https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json"
+        },
+        {
+            "type": 8,
+            "name": "欧乐 8",
+            "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/olevod.json"
+        },
+        { 
+            "name": "欧乐 Test 1", 
+            "type": 1, 
+            "api": "https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json"
+        },
+        {
+            "type": 3,
+            "name": "欧乐 3",
+            "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/olevod.json"
         },
         {
             "name": "厂长资源",
