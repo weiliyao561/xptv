@@ -13,10 +13,9 @@
             "ext": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
         },
         { 
-            "name": "欧乐🪜", 
+            "name": "欧乐 Test", 
             "type": 3, 
-            "api": "csp_Olevod",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json"
+            "api": "https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json"
         },
         {
             "name": "厂长资源",
@@ -28,6 +27,16 @@
             "name": "黑木耳",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
+        },
+        {
+            "name": "海外看",
+            "type": 1,
+            "api": "https://haiwaikan.com/api.php/provide/vod"
+        },
+        {
+            "name": "海外吧",
+            "type": 1,
+            "api": "https://hw8.live/api.php/provide/vod"
         },
         {
             "name": "哔滴影视",
@@ -54,7 +63,7 @@
             "ext2": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/f6cf4425bf7d1815a26323ade89ea593/raw/duboku.js"
         },
        {
-            "name": "4k-av",
+            "name": "4k-mv",
             "type": 3,
             "api": "csp_4kav",
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
