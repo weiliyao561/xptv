@@ -10,13 +10,14 @@
             "name": "欧乐", 
             "type": 3, 
             "api": "csp_Olevod",
-            "ext": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js",
+            "ext2": "https://ghp.xptvhelper.link/https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
         },
         {
             "name": "厂长资源",
             "type": 3,
             "api": "csp_czzy",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/czzy.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/czzy.js"
         },
         {
             "name": "黑木耳",
@@ -32,49 +33,51 @@
             "name": "哔滴影视",
             "type": 3,
             "api": "csp_bde4",
-            "ext": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/a417f28f7313f6eea4214f58b4946142/raw/bdys.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
         },
        { 
             "name": "在线之家", 
             "type": 3, 
-            "api": "csp_Zxzj" 
+            "api": "csp_Zxzj",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js",
+            "ext2": "https://ghp.xptvhelper.link/https://gist.githubusercontent.com/occupy-pluto/13a199a1a85c619f948d40e6c5a12c21/raw/zxzj.js"
         },
        { 
             "name": "低端影视", 
             "type": 3, 
             "api": "csp_ddys",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ddys.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ddys.js"
         },
         { 
             "name": "独播库", 
             "type": 3, 
             "api": "csp_duboku",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js",
-            "ext2": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/f6cf4425bf7d1815a26323ade89ea593/raw/duboku.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js",
+            "ext2": "https://ghp.xptvhelper.link/https://gist.githubusercontent.com/occupy-pluto/f6cf4425bf7d1815a26323ade89ea593/raw/duboku.js"
         },
        {
             "name": "4k-mv",
             "type": 3,
             "api": "csp_4kav",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
         },
       {
             "name": "星芽短剧",
             "type": 3,
             "api": "csp_xingya",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
         },
         {
             "name": "瓜子",
             "type": 3,
             "api": "csp_guazi",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
         },
         {
             "name": "小苹果",
             "type": 3,
             "api": "csp_apple",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
         }
         {
             "name": "nmlive",
