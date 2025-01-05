@@ -79,17 +79,5 @@
             "api": "csp_apple",
             "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
         }
-        {
-            "name": "nmlive",
-            "type": 3,
-            "api": "csp_nmlive",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nmlive.js"
-        }
-        { 
-            "name": "Youtube", 
-            "type": 3, 
-            "api": "csp_youtube",
-            "ext": "https://gist.githubusercontent.com/Yswag/98b86b68755f698e2f601962f76c036a/raw/you.js"
-        }
     ]
 }
