@@ -7,30 +7,10 @@
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/iyftv.js"
         },
         { 
-            "name": "欧乐🪜", 
+            "name": "欧乐", 
             "type": 3, 
             "api": "csp_Olevod",
             "ext": "https://ghp.ci/https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js"
-        },
-        { 
-            "name": "欧乐 Test 3", 
-            "type": 3, 
-            "api": "https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json"
-        },
-        {
-            "type": 8,
-            "name": "欧乐 8",
-            "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/olevod.json"
-        },
-        { 
-            "name": "欧乐 Test 1", 
-            "type": 1, 
-            "api": "https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json"
-        },
-        {
-            "type": 3,
-            "name": "欧乐 3",
-            "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/olevod.json"
         },
         {
             "name": "厂长资源",
@@ -42,11 +22,6 @@
             "name": "黑木耳",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
-        },
-        {
-            "name": "海外看",
-            "type": 1,
-            "api": "https://haiwaikan.com/api.php/provide/vod"
         },
         {
             "name": "海外吧",
@@ -84,7 +59,7 @@
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
         },
       {
-            "name": "星芽短劇",
+            "name": "星芽短剧",
             "type": 3,
             "api": "csp_xingya",
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
@@ -96,10 +71,22 @@
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
         },
         {
-            "name": "小蘋果",
+            "name": "小苹果",
             "type": 3,
             "api": "csp_apple",
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
+        }
+        {
+            "name": "nmlive",
+            "type": 3,
+            "api": "csp_nmlive",
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nmlive.js"
+        }
+        { 
+            "name": "Youtube", 
+            "type": 3, 
+            "api": "csp_youtube",
+            "ext": "https://gist.githubusercontent.com/Yswag/98b86b68755f698e2f601962f76c036a/raw/you.js"
         }
     ]
 }
